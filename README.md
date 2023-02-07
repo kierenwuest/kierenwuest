@@ -1,7 +1,3 @@
-![my_journey](https://arielhudnall.files.wordpress.com/2015/08/interstellar-screenshot-tars.jpg)
-
-[![kwuest's 42 stats](https://badge42.vercel.app/api/v2/clb55h6z600300fkzy9cemaa4/stats?cursusId=9&coalitionId=165)](https://github.com/JaeSeoKim/badge42)
-
 <!--
 **kierenwuest/kierenwuest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
